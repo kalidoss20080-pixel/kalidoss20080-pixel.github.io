@@ -11,11 +11,11 @@ I am a B.E. Computer Science and Engineering student at Chennai Institute of Tec
 
 ## Education
 
-| Qualification | Institution | Percentage |
-|---|---|---:|
-| B.E. CSE | Chennai Institute of Technology | 2026–Present |
-| 12th | TMHNU Matric Higher Secondary School | 97.17% |
-| 10th | Goodsam Matric Higher Secondary School | 98.60% |
+| Qualification | Institution | Year | Percentage |
+|---|---|---|---|
+| B.E. CSE | Chennai Institute of Technology | 2026–Present | Pursuing |
+| 12th | TMHNU Matric Higher Secondary School | 2025–2026 | 97.17% |
+| 10th | Goodsam Matric Higher Secondary School | 2023–2024 | 98.60% |
 
 ## Technical Skills
 
@@ -26,7 +26,7 @@ I am a B.E. Computer Science and Engineering student at Chennai Institute of Tec
 
 ## Projects
 
-### IoT-Based Smart Parking Slot Detection System
+ ### IoT-Based Smart Parking Slot Detection System
 
 A smart parking prototype designed to detect parking slot availability and display real-time information through a web dashboard.
 
